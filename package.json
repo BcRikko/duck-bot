@@ -1,0 +1,23 @@
+{
+  "name": "duck-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BcRikko/duck-bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BcRikko/duck-bot/issues"
+  },
+  "homepage": "https://github.com/BcRikko/duck-bot#readme",
+  "dependencies": {
+    "botkit": "0.0.15",
+    "superagent": "^1.8.3"
+  }
+}
