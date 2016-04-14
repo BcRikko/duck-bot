@@ -1,0 +1,9 @@
+{
+  "name": "duck-bot",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "node": "registry:dt/node#4.0.0+20160412142033",
+    "sqlite3": "registry:dt/sqlite3#2.2.3+20160316155526"
+  }
+}
