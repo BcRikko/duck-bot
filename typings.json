@@ -3,7 +3,7 @@
   "version": false,
   "dependencies": {},
   "ambientDependencies": {
-    "node": "registry:dt/node#4.0.0+20160412142033",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#484e00f72f5572ffaea7cbbf8bcb02ae90ec9bd4",
     "sqlite3": "registry:dt/sqlite3#2.2.3+20160316155526"
   }
 }
